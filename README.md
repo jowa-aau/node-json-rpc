@@ -5,7 +5,7 @@ Flexible client, server objects for json-rpc communications between node.js serv
 ### Install
 
 ```bash
-  $ npm install node-json-rpc
+  $ npm install git+https://github.com/jowa-aau/node-json-rpc.git
 ```
 
 ### Info
